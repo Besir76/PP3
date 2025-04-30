@@ -126,19 +126,23 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    Es werden Überschriften mit (<code>#</code>) gemacht #Beispiel
+   Die Zeile wird in eine Überschrift umgewandelt
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    Fett schreibungen und kursiv jeweils mit (<code>*, _, ** </code>) _Beispiel_
+    *Italic* `*text*`
+         **Bold** `**text**`
     </code>
 </details>
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    Eine Liste wird mit (<code> * gemacht <code>) * Beispiel 1 
-         * Beispiel 2
+   Aufzählungen werden mit `_` oder `*` erstellt
+         1. Nummerierunge mit `1.`
+         | Table | Example |
+|-------|---------|
+| Cell  | Value   |
     </code>
 </details>
 
