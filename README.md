@@ -114,22 +114,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary>Your SVG Code</summary>
     <code>
-    <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.1"
-     width="800mm" height="600mm"
-     viewBox="0 0 800 600">
-  <title>My SVG Example</title>
-  <desc>This SVG contains a rectangle, a circle, and a line.</desc>
-
-  <!-- Rechteck -->
-  <rect x="10" y="10" width="100" height="50" fill="blue" />
-
-  <!-- Kreis -->
-  <circle cx="200" cy="100" r="40" fill="green" />
-
-  <!-- Linie -->
-  <line x1="0" y1="0" x2="300" y2="200" stroke="red" stroke-width="2" /></svg>
+file:///home/besir/example.svg
     </code>
 </details>
 
