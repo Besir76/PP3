@@ -139,10 +139,7 @@ It is an easy and lightweight syntax, to instruct a display software to render t
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
    Aufzählungen werden mit `_` oder `*` erstellt
-         1. Nummerierunge mit `1.`
-         | Table | Example |
-|-------|---------|
-| Cell  | Value   |
+         Nummerierungen mit `1.`
     </code>
 </details>
 
